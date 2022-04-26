@@ -39,7 +39,7 @@ I don't think I will be doing any more development on this project given its sco
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/) - The absolute best educational website on front-end development techniques, and it's completely free for access!
+- [W3 Schools](https://www.w3schools.com/css/) - The absolute best educational website on front-end development techniques, and it's completely free for access!
 
 ## Author
 
