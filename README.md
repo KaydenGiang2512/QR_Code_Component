@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This challenge was a great refresher for me on simple front-end concepts, nothing to fancy or complicated involved within the codebase. Just pure CSS3 at work!
+This challenge was a great refresher for me on simple front-end concepts, nothing too fancy or complicated involved within the codebase. Just pure CSS3 at work!
 
 ### Continued development
 
